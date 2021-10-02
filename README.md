@@ -1,6 +1,6 @@
 # Adam-Numbers
 This Project will check for the Adam Number. 
-Before coming to the code I would like to tell you WHAT IS AN ADAM NUMBER IS ??
+Before coming to the code I would like to tell you WHAT AN ADAM NUMBER IS ??
 An ADAM Number is a Number which is equal to its reverse of square root of its squares's reverse 🤔
 You will find above line a bit confusing 😅
 So let me understand you with an example :
